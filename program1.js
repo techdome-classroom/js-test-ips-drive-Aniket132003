@@ -16,7 +16,7 @@ function smallestMissingPositiveInteger(nums) {
         }
         
     }
-    return nums.length+1;l
+    return nums.length+1;
 
 }
 
